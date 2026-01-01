@@ -415,14 +415,14 @@ To extend this project:
 3. **Advanced Augmentation**: Extend `GaitAugmentation` class
 4. **Multi-modal**: Add RGB features alongside skeleton
 
-## 📄 License
+##  License
 
 This project is provided for educational and research purposes.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 
-## 📞 Support
+##  Support
 
 For issues or questions:
 1. Check configuration settings
@@ -430,11 +430,5 @@ For issues or questions:
 3. Verify data format
 4. Test on synthetic data first
 
-## 🚀 Future Enhancements
 
-
-
-**Built with ❤️ for robust gait-based person identification**
-
-*Last updated: December 2025*
 >>>>>>> 669aff2 (Initial commit: Siamese Spatio-Temporal Attention Transformer for Gait Recognition)
