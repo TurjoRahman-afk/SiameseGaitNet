@@ -431,4 +431,3 @@ For issues or questions:
 4. Test on synthetic data first
 
 
->>>>>>> 669aff2 (Initial commit: Siamese Spatio-Temporal Attention Transformer for Gait Recognition)
