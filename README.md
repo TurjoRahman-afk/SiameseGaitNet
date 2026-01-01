@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # SiameseGaitNet
-=======
+
 # Siamese Spatio-Temporal Attention Transformer for Gait Recognition
 
 A state-of-the-art deep learning model for person identification using gait recognition. This implementation features a sophisticated architecture combining Graph Convolutional Networks (GCN), spatial and temporal attention mechanisms, and transformer encoders for robust gait-based biometric identification.
